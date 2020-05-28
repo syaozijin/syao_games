@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\syao_game\plane_wars\plane_wars\userplane.h(161): warning C4172: 返回局部变量或临时变量的地址
+  plane_wars.vcxproj -> D:\syao_game\plane_wars\Debug\plane_wars.exe
